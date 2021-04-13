@@ -173,7 +173,7 @@ Dialogue: 10,0:08:47.15,0:08:49.42,Default,Elaina,0,0,0,,Adakah adik kamu keluar
 Dialogue: 10,0:08:49.73,0:08:52.73,Default,Saya,0,0,0,,Kali terakhir dia ambil ujian, dia lulus.
 Dialogue: 10,0:08:52.73,0:08:55.09,Default,Saya,0,0,0,,Kemudian dia balik kerumah sendiri.
 Dialogue: 10,0:08:55.66,0:08:59.70,Default,Elaina,0,0,0,,{\q2}Kamu tergugat kerana adik \Nkamu yang comel melepasi kamu,
-Dialogue: 10,0:08:59.70,0:09:03.66,Default,Elaina,0,0,0,,{\q2}jadi kamu pun meminta pertolongan dengan \Nahli sihir yang kamu bertembung.
+Dialogue: 10,0:08:59.70,0:09:03.66,Default,Elaina,0,0,0,,{\q2}jadi kamu pun meminta pertolongan dengan \Npenyihir yang kamu bertembung.
 Dialogue: 10,0:09:03.66,0:09:05.22,Default,Elaina,0,0,0,,Begitulah kan?
 Dialogue: 10,0:09:06.10,0:09:09.48,Default,Saya,0,0,0,,Err, bila kamu berkata sebegitu...
 Dialogue: 10,0:09:09.88,0:09:12.30,Default,Elaina,0,0,0,,Bilakah ujian seterusnya diadakan?
@@ -216,7 +216,7 @@ Dialogue: 10,0:11:23.39,0:11:28.44,Default,Elaina,0,0,0,,{\q2}Kalau jadi apa-apa
 Dialogue: 10,0:11:28.44,0:11:29.23,Default,Saya,0,0,0,,Baik!
 Dialogue: 10,0:11:37.37,0:11:43.67,Default,Elaina,0,0,0,,{\i1\q2}'Saya' belajar mengawal penyapu dia \Nmacam saya begitu sahaja.
 Dialogue: 10,0:11:44.35,0:11:45.92,Default,Elaina,0,0,0,,Kalau cuba pasti boleh.
-Dialogue: 10,0:11:46.37,0:11:52.53,Default,Elaina,0,0,0,,{\q2}Rasanya inilah perasaan seorang ibu \Nbila mengajar anaknya unutk terbang.
+Dialogue: 10,0:11:46.37,0:11:52.53,Default,Elaina,0,0,0,,{\q2}Rasanya inilah perasaan seorang ibu \Nbila mengajar anaknya untuk terbang.
 Dialogue: 10,0:11:52.53,0:11:53.43,Default,Elaina,0,0,0,,Tapi...
 Dialogue: 10,0:11:53.84,0:11:59.40,Default,Elaina,0,0,0,,{\q2}Tapi kalau dia boleh belajar secepat ini, \Nsebelum ni dia buat apa?
 Dialogue: 10,0:12:00.64,0:12:02.78,Default,Elaina,0,0,0,,Kamu berlatih sangat baik hari ini.
@@ -271,7 +271,7 @@ Dialogue: 10,0:15:18.15,0:15:19.47,Default,Elaina,0,0,0,,Apa dia?
 Dialogue: 10,0:15:19.75,0:15:22.98,Default,Saya,0,0,0,,B-Boleh kita tidur bersama?
 Dialogue: 10,0:15:23.46,0:15:24.73,Default,Elaina,0,0,0,,Katil ini tak muatlah.
 Dialogue: 10,0:15:25.15,0:15:27.48,Default,Saya,0,0,0,,Maaflah sebab tempat ini murah.
-Dialogue: 10,0:15:27.48,0:15:29.61,Default,Elaina,0,0,0,,Maksud saya bukan begitu.
+Dialogue: 10,0:15:27.48,0:15:29.61,Default,Elaina,0,0,0,,Bukan begitu maksud saya.
 Dialogue: 10,0:15:30.13,0:15:32.11,Default,Elaina,0,0,0,,Baiklah, saya tak kisah pun.
 Dialogue: 10,0:15:33.46,0:15:34.36,Default,Saya,0,0,0,,Yay!  {\fnKゴシック}{\fs50}＼(≧▽≦)／
 Dialogue: 10,0:15:45.64,0:15:49.30,Default,Elaina,0,0,0,,Kamu telah banyak meningkat.
