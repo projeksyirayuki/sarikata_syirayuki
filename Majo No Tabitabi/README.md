@@ -1,0 +1,13 @@
+- Original script by Kaleido-Subs x GJM
+- Video used: Hi10p encode (cuz of limited quota connectivity T_T)
+- If u found my comment on the sub, just delete 'em.
+ - Why I put comment? Since I burn the sub, why not kan?
+
+- Used font:
+  - Althea
+  - Gandhi Sans
+  - Vollkorn
+  - Herculanum
+  - Yu Gothic Bold (游ゴシック)
+  - K Gothic
+  - Jawi Uthman Taha (yes, aq letak jawi)
