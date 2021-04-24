@@ -1,7 +1,7 @@
 - Original script by Kaleido-Subs x GJM
 - Video used: Hi10p encode (cuz of limited quota connectivity T_T)
-- If u found my comment on the sub, just delete 'em.
- - Why I put comment? Since I burn the sub, why not kan?
+- If u found my stupid comment on the sub, just delete 'em.
+ - Why I put comment? Since I burn the sub, why not kan? Viewer cant see 'em 😆
 
 - Used font:
   - Althea
