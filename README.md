@@ -1,4 +1,4 @@
-**Repositori" untuk menyimpan terjemahan anime melayu oleh team Shirayuki** (sorang je :v)
+**Repositori" untuk menyimpan terjemahan anime/video melayu oleh team Shirayuki** (sorang je :v)
 
 **Terinspirasi dari [Kaleido-subs repo](https://github.com/Kaleido-subs/Kaleidosubs) dan dan [Good Job Media 👍 repo](https://github.com/Fyurie/gjmbatchscripts)** 
 
@@ -8,7 +8,7 @@ Kalau korang ada terjumpa sebarang kesalahan, dipersilakan pull request sebab ki
 
 ---
 
-**Repository for anime malay translation by Shirayuki Team** (me alone :v)
+**Repository for anime/video malay translation by Shirayuki Team** (me alone :v)
 
 **Inspired from [Kaleido-subs repo](https://github.com/Kaleido-subs/Kaleidosubs) and [Good Job Media 👍 repo](https://github.com/Fyurie/gjmbatchscripts)** 
 
@@ -19,4 +19,4 @@ If u find any mistakes, feel free to pull request since we human being, always m
 ---
 Sebarang pertanyaan | Any questions
 
-Contact us(me): [Discord Server](https://discord.link/Shirayuki) or Kazuki278#0940
+Contact: DC:Kazuki278#0940
