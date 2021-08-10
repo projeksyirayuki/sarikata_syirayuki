@@ -8,12 +8,12 @@ WrapStyle: 0
 ScriptType: v4.00+
 YCbCr Matrix: TV.601
 Last Style Storage: Default
-Audio File: ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
-Video File: ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
+Audio File: D:\Niskala's Void\Video\Project\Malay sub\A-MV\ピノキオピー - 愛されなくても君がいる feat  初音ミク _ Because You’re Here\ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
+Video File: D:\Niskala's Void\Video\Project\Malay sub\A-MV\ピノキオピー - 愛されなくても君がいる feat  初音ミク _ Because You’re Here\ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
 Scroll Position: 48
-Active Line: 326
+Active Line: 166
 Video Position: 578
 
 [V4+ Styles]
@@ -193,7 +193,7 @@ Dialogue: 0,0:03:50.78,0:03:51.71,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biar
 Dialogue: 0,0:03:51.75,0:03:51.78,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
 Dialogue: 0,0:03:51.85,0:03:51.88,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
 Dialogue: 0,0:03:51.91,0:03:51.95,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
-Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,565.049)\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}Terjemahan: Niskala{\fnKゴシック}シファル
+Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,565.049)\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}Terjemahan: Niskala
 Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,652.772)\fnKゴシック\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}ありがとうございます ピノキオピー
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,JAWI
 Dialogue: 0,0:00:13.08,0:00:13.23,AisareJ,,0,0,0,,{\fs90\pos(1331.534,624.936)\frz15}والاو تق دچينتاٴي
@@ -368,4 +368,4 @@ Dialogue: 0,0:03:50.78,0:03:51.71,AisareJ,,0,0,0,,{\1a&H87&\pos(960,763.201)}! �
 Dialogue: 0,0:03:51.75,0:03:51.78,AisareJ,,0,0,0,,{\1a&H87&\pos(960,763.201)}! بيارکن اکو منجادي هاتسوني ميکو، يا
 Dialogue: 0,0:03:51.85,0:03:51.88,AisareJ,,0,0,0,,{\1a&H87&\pos(960,763.201)}! بيارکن اکو منجادي هاتسوني ميکو، يا
 Dialogue: 0,0:03:51.91,0:03:51.95,AisareJ,,0,0,0,,{\1a&H87&\pos(960,763.201)}! بيارکن اکو منجادي هاتسوني ميکو، يا
-Dialogue: 0,0:04:24.71,0:04:27.04,Pink_Jawi,,0,0,0,,{\pos(960,484.591)\blur1.4\1c&HFFFFFF&\shad1}ترجمهن: نيسکالا صيفر
+Dialogue: 0,0:04:24.71,0:04:27.04,Pink_Jawi,,0,0,0,,{\pos(960,484.591)\blur1.4\1c&HFFFFFF&\shad1} ترجمهن: نيسکالا

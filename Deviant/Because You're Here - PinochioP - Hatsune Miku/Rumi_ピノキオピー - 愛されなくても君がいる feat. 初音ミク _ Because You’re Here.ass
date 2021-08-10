@@ -8,12 +8,12 @@ WrapStyle: 0
 ScriptType: v4.00+
 YCbCr Matrix: TV.709
 Last Style Storage: Default
-Audio File: ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
-Video File: ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
+Audio File: D:\Niskala's Void\Video\Project\Malay sub\A-MV\ピノキオピー - 愛されなくても君がいる feat  初音ミク _ Because You’re Here\ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
+Video File: D:\Niskala's Void\Video\Project\Malay sub\A-MV\ピノキオピー - 愛されなくても君がいる feat  初音ミク _ Because You’re Here\ピノキオピー - 愛されなくても君がいる feat. 初音ミク _ Because You’re Here (1080p_30fps_VP9-128kbit_AAC).mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
 Scroll Position: 56
-Active Line: 120
+Active Line: 166
 Video Position: 6512
 
 [V4+ Styles]
@@ -190,5 +190,5 @@ Dialogue: 0,0:03:50.78,0:03:51.71,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biar
 Dialogue: 0,0:03:51.75,0:03:51.78,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
 Dialogue: 0,0:03:51.85,0:03:51.88,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
 Dialogue: 0,0:03:51.91,0:03:51.95,Aisare,,0,0,0,,{\1a&H87&\pos(960,807.163)}Biarkan aku menjadi Hatsune Miku, ya!
-Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,565.049)\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}Terjemahan: Niskala{\fnKゴシック}シファル
+Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,565.049)\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}Terjemahan: Niskala
 Dialogue: 0,0:04:24.71,0:04:27.04,Pink,,0,0,0,,{\pos(960,652.772)\fnKゴシック\blur1.4\1c&HFFFFFF&\fnKゴシック\shad1}ありがとうございます ピノキオピー
