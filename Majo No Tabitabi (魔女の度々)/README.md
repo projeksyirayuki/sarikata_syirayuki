@@ -1,0 +1,5 @@
+- Original script by Kaleido-Subs x GJM
+- Video used: Hi10p encode (web) (cuz of limited quota connectivity T_T)
+- If u found my stupid comment on the sub, just delete 'em.
+ - Why I put comment? Since I burn the sub, why not kan? Viewer cant see 'em 😆
+- anidb: https://anidb.net/group/16775/anime/15202/release

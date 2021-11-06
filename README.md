@@ -1,22 +1,17 @@
-**Repositori" untuk menyimpan terjemahan anime/video melayu oleh team Shirayuki** (sorang je :v)
+[ملايو جاوي](README_ms.md) // [English](README_en.md)
 
-**Terinspirasi dari [Kaleido-subs repo](https://github.com/Kaleido-subs/Kaleidosubs) dan dan [Good Job Media 👍 repo](https://github.com/Fyurie/gjmbatchscripts)** 
+# Sari Kata Shirayuki
 
-![](https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283)
+Repositori bagi sari kata yang diterjemahkan oleh Projek Shirayuki.
 
-Kalau korang ada terjumpa sebarang kesalahan, dipersilakan pull request sebab kita manusia ni x leh lari dari kesilapan.
-
+Untuk kegunaan persendirian sahaja, tidak boleh diperdagangkan. Kredit amat digalakkan.
 ---
-
-**Repository for anime/video malay translation by Shirayuki Team** (me alone :v)
-
-**Inspired from [Kaleido-subs repo](https://github.com/Kaleido-subs/Kaleidosubs) and [Good Job Media 👍 repo](https://github.com/Fyurie/gjmbatchscripts)** 
-
-![](https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283)
-
-If u find any mistakes, feel free to pull request since we human being, always make mistake.
-
+Diilhamkan dari repositori [Kaleido-subs](https://github.com/Kaleido-subs) dan [GJM](https://github.com/Fyurie/gjmbatchscripts).
 ---
-Sebarang pertanyaan | Any questions
+Pautan:<br>
+- [Laman Sesawang][laman]
+- [Server Discord][discord]<br>
 
-Contact: DC:Kazuki278#0940
+
+[laman]: https://shirayukiproject.blogspot.com/
+[discord]: https://discord.gg/3rgRVredd7
