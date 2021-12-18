@@ -14,4 +14,4 @@ Pautan:<br>
 
 
 [laman]: https://shirayukiproject.blogspot.com/
-[discord]: https://discord.gg/3rgRVredd7
+[discord]: https://discord.gg/3JKbgVb
