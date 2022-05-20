@@ -1,5 +1,7 @@
 [Melayu](README.md) // [ملايو جاوي](README_ms.md)
 
+![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169499091-06af50ae-a9d8-4084-82e0-9dd28920c8ed.png)
+
 # Shirayuki Subtitles
 
 Repository for subtitles translated by Shirayuki Project.
