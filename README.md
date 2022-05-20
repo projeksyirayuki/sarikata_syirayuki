@@ -1,5 +1,7 @@
 [ملايو جاوي](README_ms.md) // [English](README_en.md)
 
+![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169498292-9efa8d7f-b62d-4125-a3ec-7a6f41c5ca13.png)
+
 # Sari Kata Shirayuki
 
 Repositori bagi sari kata yang diterjemahkan oleh Projek Shirayuki.
