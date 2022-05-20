@@ -1,6 +1,6 @@
 [ملايو جاوي](README_ms.md) // [English](README_en.md)
 
-![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169498292-9efa8d7f-b62d-4125-a3ec-7a6f41c5ca13.png)
+![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169499091-06af50ae-a9d8-4084-82e0-9dd28920c8ed.png)
 
 # Sari Kata Shirayuki
 
