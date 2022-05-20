@@ -1,5 +1,6 @@
 [Melayu Rumi](README.md) // [English](README_en.md)
 
+![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169499091-06af50ae-a9d8-4084-82e0-9dd28920c8ed.png)
 # ساري کات شيرايوکي
 
 ريڤوسيتوري باݢي ساري کات يڠ دترجمهکن اوليه ڤروجيک شيرايوکي.
