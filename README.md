@@ -1,12 +1,13 @@
 [ملايو جاوي](README_ms.md) // [English](README_en.md)
 
-![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/169499091-06af50ae-a9d8-4084-82e0-9dd28920c8ed.png)
+![SariKataShirayuki](https://user-images.githubusercontent.com/34799053/171211487-d49387ae-4f44-418b-a97b-ea201025e66c.png)
 
 # Sari Kata Shirayuki
 
 Repositori bagi sari kata yang diterjemahkan oleh Projek Shirayuki.
 
 Untuk kegunaan persendirian sahaja, tidak boleh diperdagangkan. Kredit amat digalakkan.
+
 ---
 Diilhamkan dari repositori [Kaleido-subs](https://github.com/Kaleido-subs) dan [GJM](https://github.com/Fyurie/gjmbatchscripts).
 ---
